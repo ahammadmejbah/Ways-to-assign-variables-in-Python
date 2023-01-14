@@ -262,4 +262,5 @@ b = Foo.Bar(20)
 b.y
 ```
 20
-Variables in Python aren’t just for storing data; they store our functions, modules, and classes, as well.  Understanding how various keywords define and update these variables can really help to understand what Python code is doing — and also provides for some cool tricks you can use in your own code.
+Variables in Python aren’t just for storing data; they store our functions, modules, and classes, as well.  Understanding how various keywords define and update these variables can really help to understand what Python code is doing — and also provides for some cool tricks you can use in your own code. 
+#### Credit:  Reuven Lerner
